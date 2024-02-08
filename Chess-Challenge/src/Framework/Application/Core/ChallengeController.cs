@@ -13,6 +13,9 @@ using static ChessChallenge.Application.ConsoleHelper;
 
 namespace ChessChallenge.Application
 {
+    /// <summary>
+    /// Test
+    /// </summary>
     public class ChallengeController
     {
         public enum PlayerType
